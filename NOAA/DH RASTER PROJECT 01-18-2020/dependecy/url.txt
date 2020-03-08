@@ -1,0 +1,5 @@
+https://pypi.org/project/georasters/
+
+
+on anaconda use 
+conda install -c conda-forge georasters
